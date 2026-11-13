@@ -1,0 +1,20 @@
+body {
+    background: linear-gradient(to top, #00008B, #F0FFF0);
+}
+
+h1 {
+    font-size: 30px;
+    color:azure;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+p{
+    font-size: 20px;
+    color:azure;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+img{
+    border: 2px solid white;
+    box-shadow: 0 4px 8px white; /*offset-x offset-y blur-radius colors*/
+}
