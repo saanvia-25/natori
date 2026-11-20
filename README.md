@@ -1,1 +1,2 @@
 # natori
+Hi, I made this website to yap about my favorite music artist! I've been listening to his songs for a really long tiem, and so I thought it would be cool to make a website dedicated to him as thanks! I used HTML and Style CSS to make this website. 
